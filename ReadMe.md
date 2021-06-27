@@ -2,4 +2,4 @@ Este projeto foi feito com a grande ajuda da equipe da Rocketseat, de modo parti
 
 Este projeto compõe-se de uma página única desenvolvido com HTML, CSS e JavaScript.
 
-Para visualizá-lo acesse: <a href="https://tdb27.github.io/Origin_Six/" target="_blank">https://tdb27.github.io/Origin_Six/</a>
+Para visualizá-lo acesse: <a href="https://tdb27.github.io/Origin_Six/" target="_blank">tdb27.github.io</a>
